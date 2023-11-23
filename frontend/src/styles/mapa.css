@@ -1,0 +1,11 @@
+
+/* Estilo base para el contenedor del mapa */
+.map-container {
+ /* Altura fija o la que desees */
+
+position: absolute;
+z-index: 1;
+border:   10px solid #10597D;
+}
+
+
