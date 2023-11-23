@@ -4,7 +4,7 @@ actualizada y confiable, recibir alertas y crear una lista de favoritos.
 
 Proyecto para la empresa Aquadat: https://www.linkedin.com/company/aquadat/
 
-
+Leer más: https://github.com/50lin/Aquality-App/blob/main/Aquality.pdf
 
 Desarrolado por: 
 
