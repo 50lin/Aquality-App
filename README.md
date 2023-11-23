@@ -9,13 +9,19 @@ Leer más: https://github.com/50lin/Aquality-App/blob/main/Aquality.pdf
 Desarrolado por: 
 
 Full Stack:
+
 Lino Hadeed - FrontEnd - React
+
 David Pacho - BackEnd - Express - Mongo 
 
 Ux-Ui:
+
 Marisa Toribio - Figma
+
 Roberto Lopéz - Figma
 
 Data Api:
+
 Jon - Phyton
+
 Guillermo Murcia - Phyton
